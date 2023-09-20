@@ -1,0 +1,3 @@
+Lưu ý: 
+Đối với trường hợp 2, nếu bạn gửi đối số mà không sử dụng phương thức liên kết, (this.shoot (this, "Goal") thay vì this.shoot.bind (this, "Goal"))
+Hàm sẽ được thực thi khi trang được tải thay vì đang đợi nút được bấm.
